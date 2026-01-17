@@ -25,7 +25,7 @@ To interact with the dashboard:
 1. Download the repository to your machine.
 2. Open the `.twbx` file in [Tableau Desktop](https://www.tableau.com/products/desktop/download) (14 days trial) to perform Data Analysis or see the visualization on my profile at Tableau Public [Tableau Public](https://public.tableau.com/app/profile/marcin.wawrzyniak/vizzes)
 ## Data Visualization Using [Tableau](https://public.tableau.com/app/profile/marcin.wawrzyniak/viz/UFO_sightings-Dashboard/Dashboard1)
-## Data Visualization Using [Power BI](https://tiny.pl/3p6xdfzx)
+## Data Visualization Using [Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGYwNjU0YmItMGYwYy00OTZkLWE3NWQtZWJmNGM5ZDY3NmJhIiwidCI6IjVlNjZkN2U5LTc2NTQtNDAyNy04NGU3LWVhNWI3ZDYyN2QyNSJ9&pageName=a17b8fb7917ee606e8c7)
 ![UFO sightings dashboard](UFO_sightings.png)
 ## Data Source
 The dataset was sourced from National UFO Reporting Center
